@@ -50,7 +50,7 @@
         "@typescript-eslint/explicit-function-return-type": "off",
         "@typescript-eslint/no-explicit-any": "off",
         "@typescript-eslint/no-var-requires": "off",
-        "@typescript-eslint/quotes": [
+        "@typescript-eslint/quotemark": [
           2,
           "backtick",
           {
